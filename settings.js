@@ -11,7 +11,7 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
- //  * @project_name : developer-V3-MD
+ //  * @project_name : mr-developer-shahzada
  //  * @author : mrdevelopershahzada
  //  * @youtube : https://www.youtube.com/@mrdevelopershahzada
 //   * @description : HAMZA-V3 ,A Multi-functional whatsapp user bot.
